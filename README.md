@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mridul-Rai
 - 👀 I’m interested in learning new technology 
-- 🌱 I’m currently learning MERN stack 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @mridulrai12@gmail.com
+- 🌱 I’m currently learning DevOps 
+- 📫 How to reach me - @mridulrai12@gmail.com
 
 <!---
 Mridul-Rai/Mridul-Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
