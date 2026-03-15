@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mridul-Rai
 - 👀 I’m interested in learning new technology 
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning DevOps and cloud
 - 📫 How to reach me - @mridulrai12@gmail.com
 
 <!---
